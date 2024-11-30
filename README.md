@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Just a guy love creating something meaningful 😎
+
+Fun Facts
+* SWE Student
+* Normal coding guy
+* Music Anime Manga Enthusiast
+
+![Alt text](public/hi.png)
+
 <!--
 **KQFoo/KQFoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
