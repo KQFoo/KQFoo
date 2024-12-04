@@ -7,7 +7,7 @@ Fun Facts
 * Normal coding guy
 * Music Anime Manga Enthusiast
 
-Nice Picture
+## Nice picture 😎
 ![Alt text](hi.jpg)
 
 <!--
