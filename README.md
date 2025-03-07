@@ -4,7 +4,7 @@ Just a guy love creating something meaningful 😎
 
 Fun Facts
 * SWE Student
-* Normal coding guy
+* Love reading and explore different fields
 * Music Anime Manga Enthusiast
 
 ## Nice picture 😎
