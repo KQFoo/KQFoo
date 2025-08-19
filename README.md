@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-Just a guy love creating something meaningful 😎
+Just a guy love playing and creating something meaningful 😎
 
 Fun Facts
-* SWE Student
-* Love reading and explore different fields
+* Research Student
+* Love reading and exploring various fields
 * Music Anime Manga Enthusiast
 
 ## Nice picture 😎
