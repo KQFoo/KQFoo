@@ -1,11 +1,6 @@
 ## Hi there 👋
 
-Just a guy love playing and creating something meaningful 😎
-
-Fun Facts
-* Research Student
-* Love reading and exploring various fields
-* Music Anime Manga Enthusiast
+Just a guy love reading (especially philosophy and classics) and passionate of anime and manga 😎
 
 ## Nice picture 😎
 ![Alt text](hi.jpg)
